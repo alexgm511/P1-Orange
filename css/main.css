@@ -1,0 +1,35 @@
+/* CSS Document */
+@charset "utf-8";
+
+body {
+	font-family: Verdana, sans-serif;
+	color: #666666;
+}
+
+h1 {
+	font-size: 48px;
+	font-weight: 500;
+}
+
+h2 {
+	color: #f07c17;
+	margin: 0 0 25px;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+p, ul {
+	font-size: 16px;
+	line-height: 2;
+}
+
+.header {
+	margin: 25px 0 20px;
+}
+
+.features {
+	margin-top: 30px;
+	padding: 30px;
+	border: 1px solid #ccc;
+}
+
